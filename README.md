@@ -3,4 +3,4 @@
 #### If you ever want to contact me, feel free to join my discord server: https://discord.com/invite/aXpYFhk
 
 ##### Stats:
-![Warhawk947's github stats](https://github-readme-stats.vercel.app/api?username=warhawk947&show_icons=true&theme=synthwave)
+![Warhawk947's github stats](https://github-readme-stats.vercel.app/api?username=Warhawk947&show_icons=true&theme=synthwave)
