@@ -4,3 +4,4 @@
 
 ##### Stats:
 ![Warhawk947's github stats](https://github-readme-stats.vercel.app/api?username=Warhawk947&show_icons=true&theme=synthwave)
+![Warhawk947's profile views](https://komarev.com/ghpvc/?username=warhawk947&label=Profile+Views-%3E&color=7289da)
